@@ -1,0 +1,16 @@
+[
+
+	{
+	"term" : "Variable",
+	"description" : "A value that can change in a program",
+	"id_class" : 13
+	},
+
+
+
+	{
+	"term" : "Concurrency",
+	"description" : "When two programs occur at the same time",
+	"id_class" : 13
+	}
+]
